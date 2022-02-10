@@ -1,4 +1,4 @@
-# Demo.Firestore
+# Demo.Hound WebAutomation
 
 To start your Phoenix server:
 
